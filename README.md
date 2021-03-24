@@ -4,7 +4,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmittal1366&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmittal1366" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/{rohanmittal1366}/count.svg)
+
 
 - 📫 How to reach me **18BCE198@nirmauni.ac.in**
 
