@@ -7,10 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-mittal-a95b241b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rohan-mittal-a95b241b3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-mittal-a95b241b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohan-mittal-a95b241b3" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_._mittal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohan_._mittal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/rohan_mittal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/rohan_mittal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rohanmittal1366" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/rohanmittal1366" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohanmittal1366" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rohanmittal1366" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
