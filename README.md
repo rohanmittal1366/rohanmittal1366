@@ -23,5 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanmittal1366&show_icons=true&locale=en&layout=compact" alt="rohanmittal1366" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanmittal1366&show_icons=true&locale=en" alt="rohanmittal1366" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmittal1366&" alt="rohanmittal1366" /></p>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
