@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Mittal</h1>
-<h3 align="center">I'm a 3rd year undergraduate pursuing B.tech and a web developer.</h3>
+<h3 align="center">I'm a 3rd year undergraduate pursuing B.tech. I am also doing web developing.</h3>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
