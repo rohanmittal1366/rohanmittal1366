@@ -20,7 +20,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=HackerRank&logoColor=white)](https://instagram.com/rohan_._mittal)
 [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-4545cd?style=flat-square&logo=HackerRank&logoColor=white)](https://codeforces.com/profile/rohan_mittal)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-7845ac?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rohanmittal1366)
-[![GeekForGeeks Badge](https://img.shields.io/badge/-geeks_for_geeks-ssdw45?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rohanmittal1366)
+[![GeekForGeeks Badge](https://img.shields.io/badge/-Geeks_For_Geeks-ssdw45?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rohanmittal1366)
 
 
 
