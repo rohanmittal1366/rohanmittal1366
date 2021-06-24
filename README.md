@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rohan Mittal</h1>
 
-<h3 align="center">I'm a passionate self-taught Competitive Programmer and a Web Developer from India</h3>
+<h3 align="center">I'm a passionate self-taught Competitive Programmer and a Developer from India</h3>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
 ![Visitor Count](https://profile-counter.glitch.me/{rohanmittal1366}/count.svg)
 
-
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me **18BCE198@nirmauni.ac.in**
-- 📄 Check my [Portfolio](https://www.rohanmittal.me/)
+- 💻 - Have a look at my [Portfolio](https://www.rohanmittal.me/) for more details.
 
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Connect with Me
 
@@ -26,11 +28,47 @@
 
 
 ## 🏆&nbsp;My Stats
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/rohanmittal1366">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanmittal1366&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohanmittal1366&layout=compact&langs_count=8&theme=algolia"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmittal1366&" alt="rohanmittal1366" />
   </a>
-</p>
+</p> -->
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <p align="center">
+  <a href="https://github.com/rohanmittal1366">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanmittal1366&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohanmittal1366&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+    </p>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <p align="center">
+ <a href="https://github.com/rohanmittal1366">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmittal1366&" alt="rohanmittal1366" />
+  </a>
+  </p>
+</details>
+
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b> Asus A15 </li>
+  	    <li><b>Browser: </b> Google Chrome</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.io, Linkedin and Read something great</li>
+	    <br />
+	</ul>	
+</details>
