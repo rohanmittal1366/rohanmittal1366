@@ -11,7 +11,7 @@
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me **18BCE198@nirmauni.ac.in**
-- 💻 &nbsp; Have a look at my [Portfolio](https://www.rohanmittal.me/) for more details.
+- 💻 &nbsp; Have a look at my [Portfolio](https://rohanmittal.netlify.app/) for more details.
 
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Connect with Me
 
